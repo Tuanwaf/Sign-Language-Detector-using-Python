@@ -5,8 +5,8 @@ DATA_DIR = './data'
 if not os.path.exists(DATA_DIR):
     os.makedirs(DATA_DIR)
 
-number_of_classes = 10
-dataset_size = 100
+number_of_classes = 10 # Change this to how many sign language type you want
+dataset_size = 100 # this is the total images ypu want to capture for each sign type
 
 cap = cv2.VideoCapture(0)
 for j in range(number_of_classes):
