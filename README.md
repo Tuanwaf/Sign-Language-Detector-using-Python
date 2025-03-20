@@ -21,11 +21,11 @@ Ensure you have the following installed:
    ```
    
 2. **Enter the project directory**
-  ```
-    cd sign-language-detector
-  ```
-
-3. **Install dependencies**
+   ```
+   cd sign-language-detector
+   ```
+   
+4. **Install dependencies**
    ```
    pip install -r requirements.txt
    ```
