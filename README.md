@@ -17,7 +17,7 @@ Ensure you have the following installed:
 
 1. **Clone this repository**  
    ```
-   git clone https://github.com/your-username/sign-language-detector.git
+   git clone https://github.com/your-username/sign-language-detector-using-python.git
    ```
    
 2. **Enter the project directory**
