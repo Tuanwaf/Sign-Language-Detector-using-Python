@@ -22,7 +22,7 @@ Ensure you have the following installed:
    
 2. **Enter the project directory**
    ```
-   cd sign-language-detector
+   cd sign-language-detector-using-python
    ```
    
 4. **Install dependencies**
