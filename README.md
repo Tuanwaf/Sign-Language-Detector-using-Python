@@ -1,6 +1,6 @@
 # Sign Language Detector  
 
-A Python-based Sign Language Detector for recognizing hand gestures. This project involves collecting images, creating a dataset, training a model, and running inference to detect sign language gestures.  
+A Python-based Sign Language Detector for recognizing hand gestures. This project involves collecting images, creating a dataset, training a model, and running inference to detect sign language gestures.
 
 ## Requirements  
 
